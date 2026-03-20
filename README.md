@@ -2,7 +2,7 @@
 
 A repo for practicing Go, following the structured learning path below.
 
-**Source:** [Golang Notion Page](https://www.notion.so/sanjarcode/Golang-32920b9320048093ae45e361cb6618a8#32920b93200480ffb909f0e08aa74bae)
+**Source:** [Golang Notion Page](https://www.notion.so/sanjarcode/Golang-32920b9320048093ae45e361cb6618a8?source=copy_link)
 
 ---
 
