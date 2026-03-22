@@ -19,9 +19,8 @@ func main() {
 		trav = (*trav).next
 	}
 
-	str:= struct {
+	fmt.Println(struct {
 		name   string
 		isGood bool
-	}
-	fmt.Println(type(str){"Tommy", false})
+	}{"Tommy", false})
 }
